@@ -1,0 +1,18 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Styles.Render("~/Content/Site.css");
+}
+
+
+
+
+<div class="tilecontainer">
+    <ul class="usermenu">
+        <li id="managelocation">@Html.ActionLink("manage locations","Index","Location")</li>
+        <li id="viewlocation">@Html.ActionLink("view locations","ViewLocation","Location")</li>
+        <li id="managecoursedesc">@Html.ActionLink("manage course description","Index","CourseDescription")</li>
+        <li id="managecourseinst">@Html.ActionLink("manage course instance","Index","CourseInstance")</li>
+    </ul>
+</div>
+

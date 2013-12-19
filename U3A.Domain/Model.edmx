@@ -1,0 +1,886 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="Domain.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityContainer Name="DomainStoreContainer">
+          <EntitySet Name="Area" EntityType="Domain.Store.Area" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Attendance" EntityType="Domain.Store.Attendance" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="ClassGroup" EntityType="Domain.Store.ClassGroup" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="CourseDescription" EntityType="Domain.Store.CourseDescription" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="CourseInstance" EntityType="Domain.Store.CourseInstance" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Member" EntityType="Domain.Store.Member" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Organization" EntityType="Domain.Store.Organization" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Region" EntityType="Domain.Store.Region" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Session" EntityType="Domain.Store.Session" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Suburb" EntityType="Domain.Store.Suburb" store:Type="Tables" Schema="dbo" />
+          <EntitySet Name="Venue" EntityType="Domain.Store.Venue" store:Type="Tables" Schema="dbo" />
+          <AssociationSet Name="FK_Area_Venue" Association="Domain.Store.FK_Area_Venue">
+            <End Role="Venue" EntitySet="Venue" />
+            <End Role="Area" EntitySet="Area" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Attendance_Member" Association="Domain.Store.FK_Attendance_Member">
+            <End Role="Member" EntitySet="Member" />
+            <End Role="Attendance" EntitySet="Attendance" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Attendance_Session" Association="Domain.Store.FK_Attendance_Session">
+            <End Role="Session" EntitySet="Session" />
+            <End Role="Attendance" EntitySet="Attendance" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ClassGroup_Area" Association="Domain.Store.FK_ClassGroup_Area">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="ClassGroup" EntitySet="ClassGroup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ClassGroup_CourseInstance1" Association="Domain.Store.FK_ClassGroup_CourseInstance1">
+            <End Role="CourseInstance" EntitySet="CourseInstance" />
+            <End Role="ClassGroup" EntitySet="ClassGroup" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseDescription_Organization" Association="Domain.Store.FK_CourseDescription_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="CourseDescription" EntitySet="CourseDescription" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseInstance_Course1" Association="Domain.Store.FK_CourseInstance_Course1">
+            <End Role="CourseDescription" EntitySet="CourseDescription" />
+            <End Role="CourseInstance" EntitySet="CourseInstance" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseInstance_Region" Association="Domain.Store.FK_CourseInstance_Region">
+            <End Role="Region" EntitySet="Region" />
+            <End Role="CourseInstance" EntitySet="CourseInstance" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Member_Organization" Association="Domain.Store.FK_Member_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Member" EntitySet="Member" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Region_Organization" Association="Domain.Store.FK_Region_Organization">
+            <End Role="Organization" EntitySet="Organization" />
+            <End Role="Region" EntitySet="Region" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Session_Area" Association="Domain.Store.FK_Session_Area">
+            <End Role="Area" EntitySet="Area" />
+            <End Role="Session" EntitySet="Session" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Session_ClassGroup" Association="Domain.Store.FK_Session_ClassGroup">
+            <End Role="ClassGroup" EntitySet="ClassGroup" />
+            <End Role="Session" EntitySet="Session" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Suburb_Region" Association="Domain.Store.FK_Suburb_Region">
+            <End Role="Region" EntitySet="Region" />
+            <End Role="Suburb" EntitySet="Suburb" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Venue_Suburb" Association="Domain.Store.FK_Venue_Suburb">
+            <End Role="Suburb" EntitySet="Suburb" />
+            <End Role="Venue" EntitySet="Venue" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Area">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Room" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="VenueId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Attendance">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Code" Type="varchar" Nullable="false" MaxLength="1" />
+          <Property Name="SessionId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="MemberId" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ClassGroup">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="StudentCount" Type="int" Nullable="false" />
+          <Property Name="DefaultAreaId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="CourseInstanceId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="ClassGroupName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CourseDescription">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="CourseName" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="CourseDescription" Type="varchar" Nullable="false" MaxLength="500" />
+          <Property Name="OrganizationId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="CourseNumber" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CourseInstance">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="CourseId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RegionId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="CourseCode" Type="varchar" Nullable="false" MaxLength="10" />
+          <Property Name="CourseLeader" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Member">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" Nullable="false" />
+          <Property Name="OrganizationId" Type="uniqueidentifier" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Organization">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="varchar" Nullable="false" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Region">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="OrganizationId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="RegionName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Session">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="ClassGroupId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="AreaId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Date" Type="date" Nullable="false" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Suburb">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="SuburbName" Type="varchar" Nullable="false" MaxLength="50" />
+          <Property Name="Postcode" Type="varchar" Nullable="false" MaxLength="4" />
+          <Property Name="RegionId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Venue">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="uniqueidentifier" Nullable="false" StoreGeneratedPattern="Identity" />
+          <Property Name="VenueName" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="VenueAddress" Type="varchar" Nullable="false" MaxLength="100" />
+          <Property Name="SuburbId" Type="uniqueidentifier" Nullable="false" />
+          <Property Name="Active" Type="bit" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Area_Venue">
+          <End Role="Venue" Type="Domain.Store.Venue" Multiplicity="1" />
+          <End Role="Area" Type="Domain.Store.Area" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venue">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Area">
+              <PropertyRef Name="VenueId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Attendance_Member">
+          <End Role="Member" Type="Domain.Store.Member" Multiplicity="1" />
+          <End Role="Attendance" Type="Domain.Store.Attendance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Member">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Attendance">
+              <PropertyRef Name="MemberId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Attendance_Session">
+          <End Role="Session" Type="Domain.Store.Session" Multiplicity="1" />
+          <End Role="Attendance" Type="Domain.Store.Attendance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Session">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Attendance">
+              <PropertyRef Name="SessionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ClassGroup_Area">
+          <End Role="Area" Type="Domain.Store.Area" Multiplicity="1" />
+          <End Role="ClassGroup" Type="Domain.Store.ClassGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ClassGroup">
+              <PropertyRef Name="DefaultAreaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ClassGroup_CourseInstance1">
+          <End Role="CourseInstance" Type="Domain.Store.CourseInstance" Multiplicity="1" />
+          <End Role="ClassGroup" Type="Domain.Store.ClassGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CourseInstance">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ClassGroup">
+              <PropertyRef Name="CourseInstanceId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseDescription_Organization">
+          <End Role="Organization" Type="Domain.Store.Organization" Multiplicity="1" />
+          <End Role="CourseDescription" Type="Domain.Store.CourseDescription" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseDescription">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseInstance_Course1">
+          <End Role="CourseDescription" Type="Domain.Store.CourseDescription" Multiplicity="1" />
+          <End Role="CourseInstance" Type="Domain.Store.CourseInstance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CourseDescription">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseInstance">
+              <PropertyRef Name="CourseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseInstance_Region">
+          <End Role="Region" Type="Domain.Store.Region" Multiplicity="1" />
+          <End Role="CourseInstance" Type="Domain.Store.CourseInstance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Region">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseInstance">
+              <PropertyRef Name="RegionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Member_Organization">
+          <End Role="Organization" Type="Domain.Store.Organization" Multiplicity="1" />
+          <End Role="Member" Type="Domain.Store.Member" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Member">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Region_Organization">
+          <End Role="Organization" Type="Domain.Store.Organization" Multiplicity="1" />
+          <End Role="Region" Type="Domain.Store.Region" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Region">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Session_Area">
+          <End Role="Area" Type="Domain.Store.Area" Multiplicity="1" />
+          <End Role="Session" Type="Domain.Store.Session" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Session">
+              <PropertyRef Name="AreaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Session_ClassGroup">
+          <End Role="ClassGroup" Type="Domain.Store.ClassGroup" Multiplicity="1" />
+          <End Role="Session" Type="Domain.Store.Session" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ClassGroup">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Session">
+              <PropertyRef Name="ClassGroupId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Suburb_Region">
+          <End Role="Region" Type="Domain.Store.Region" Multiplicity="1" />
+          <End Role="Suburb" Type="Domain.Store.Suburb" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Region">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Suburb">
+              <PropertyRef Name="RegionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Venue_Suburb">
+          <End Role="Suburb" Type="Domain.Store.Suburb" Multiplicity="1" />
+          <End Role="Venue" Type="Domain.Store.Venue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Suburb">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venue">
+              <PropertyRef Name="SuburbId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="Domain" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="U3AContext" p1:LazyLoadingEnabled="true" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <EntitySet Name="Areas" EntityType="Domain.Area" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Attendances" EntityType="Domain.Attendance" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="ClassGroups" EntityType="Domain.ClassGroup" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="CourseDescriptions" EntityType="Domain.CourseDescription" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="CourseInstances" EntityType="Domain.CourseInstance" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Members" EntityType="Domain.Member" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Organizations" EntityType="Domain.Organization" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Regions" EntityType="Domain.Region" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Sessions" EntityType="Domain.Session" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Suburbs" EntityType="Domain.Suburb" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <EntitySet Name="Venues" EntityType="Domain.Venue" a:GetterAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+          <AssociationSet Name="FK_Area_Venue" Association="Domain.FK_Area_Venue">
+            <End Role="Venue" EntitySet="Venues" />
+            <End Role="Area" EntitySet="Areas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ClassGroup_Area" Association="Domain.FK_ClassGroup_Area">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="ClassGroup" EntitySet="ClassGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Session_Area" Association="Domain.FK_Session_Area">
+            <End Role="Area" EntitySet="Areas" />
+            <End Role="Session" EntitySet="Sessions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Attendance_Member" Association="Domain.FK_Attendance_Member">
+            <End Role="Member" EntitySet="Members" />
+            <End Role="Attendance" EntitySet="Attendances" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Attendance_Session" Association="Domain.FK_Attendance_Session">
+            <End Role="Session" EntitySet="Sessions" />
+            <End Role="Attendance" EntitySet="Attendances" />
+          </AssociationSet>
+          <AssociationSet Name="FK_ClassGroup_CourseInstance1" Association="Domain.FK_ClassGroup_CourseInstance1">
+            <End Role="CourseInstance" EntitySet="CourseInstances" />
+            <End Role="ClassGroup" EntitySet="ClassGroups" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Session_ClassGroup" Association="Domain.FK_Session_ClassGroup">
+            <End Role="ClassGroup" EntitySet="ClassGroups" />
+            <End Role="Session" EntitySet="Sessions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseDescription_Organization" Association="Domain.FK_CourseDescription_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="CourseDescription" EntitySet="CourseDescriptions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseInstance_Course1" Association="Domain.FK_CourseInstance_Course1">
+            <End Role="CourseDescription" EntitySet="CourseDescriptions" />
+            <End Role="CourseInstance" EntitySet="CourseInstances" />
+          </AssociationSet>
+          <AssociationSet Name="FK_CourseInstance_Region" Association="Domain.FK_CourseInstance_Region">
+            <End Role="Region" EntitySet="Regions" />
+            <End Role="CourseInstance" EntitySet="CourseInstances" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Member_Organization" Association="Domain.FK_Member_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Member" EntitySet="Members" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Region_Organization" Association="Domain.FK_Region_Organization">
+            <End Role="Organization" EntitySet="Organizations" />
+            <End Role="Region" EntitySet="Regions" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Suburb_Region" Association="Domain.FK_Suburb_Region">
+            <End Role="Region" EntitySet="Regions" />
+            <End Role="Suburb" EntitySet="Suburbs" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Venue_Suburb" Association="Domain.FK_Venue_Suburb">
+            <End Role="Suburb" EntitySet="Suburbs" />
+            <End Role="Venue" EntitySet="Venues" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Area" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Room" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="VenueId" Type="Guid" Nullable="false" />
+          <NavigationProperty Name="Venue" Relationship="Domain.FK_Area_Venue" FromRole="Area" ToRole="Venue" />
+          <NavigationProperty Name="ClassGroups" Relationship="Domain.FK_ClassGroup_Area" FromRole="Area" ToRole="ClassGroup" />
+          <NavigationProperty Name="Sessions" Relationship="Domain.FK_Session_Area" FromRole="Area" ToRole="Session" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Attendance" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" Abstract="true">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SessionId" Type="Guid" Nullable="false" />
+          <Property Name="MemberId" Type="Int32" Nullable="false" />
+          <NavigationProperty Name="Member" Relationship="Domain.FK_Attendance_Member" FromRole="Attendance" ToRole="Member" />
+          <NavigationProperty Name="Session" Relationship="Domain.FK_Attendance_Session" FromRole="Attendance" ToRole="Session" />
+        </EntityType>
+        <EntityType Name="ClassGroup" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="StudentCount" Type="Int32" Nullable="false" />
+          <Property Name="DefaultAreaId" Type="Guid" Nullable="false" />
+          <Property Name="CourseInstanceId" Type="Guid" Nullable="false" />
+          <Property Name="ClassGroupName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="Area" Relationship="Domain.FK_ClassGroup_Area" FromRole="ClassGroup" ToRole="Area" />
+          <NavigationProperty Name="CourseInstance" Relationship="Domain.FK_ClassGroup_CourseInstance1" FromRole="ClassGroup" ToRole="CourseInstance" />
+          <NavigationProperty Name="Sessions" Relationship="Domain.FK_Session_ClassGroup" FromRole="ClassGroup" ToRole="Session" />
+          <Property Type="Boolean" Name="Active" Nullable="false" annotation:StoreGeneratedPattern="None" DefaultValue="True" />
+        </EntityType>
+        <EntityType Name="CourseDescription" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CourseName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+          <Property Name="Description" Type="String" Nullable="false" MaxLength="500" Unicode="false" FixedLength="false" />
+          <Property Name="OrganizationId" Type="Guid" Nullable="false" />
+          <Property Name="CourseNumber" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="Organization" Relationship="Domain.FK_CourseDescription_Organization" FromRole="CourseDescription" ToRole="Organization" />
+          <NavigationProperty Name="CourseInstances" Relationship="Domain.FK_CourseInstance_Course1" FromRole="CourseDescription" ToRole="CourseInstance" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <EntityType Name="CourseInstance" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="CourseId" Type="Guid" Nullable="false" />
+          <Property Name="RegionId" Type="Guid" Nullable="false" />
+          <Property Name="CourseCode" Type="String" Nullable="false" MaxLength="10" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="ClassGroups" Relationship="Domain.FK_ClassGroup_CourseInstance1" FromRole="CourseInstance" ToRole="ClassGroup" />
+          <NavigationProperty Name="CourseDescription" Relationship="Domain.FK_CourseInstance_Course1" FromRole="CourseInstance" ToRole="CourseDescription" />
+          <NavigationProperty Name="Region" Relationship="Domain.FK_CourseInstance_Region" FromRole="CourseInstance" ToRole="Region" />
+          <Property Type="String" Name="CourseLeader" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Member" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="None" />
+          <Property Name="OrganizationId" Type="Guid" Nullable="false" />
+          <NavigationProperty Name="Attendances" Relationship="Domain.FK_Attendance_Member" FromRole="Member" ToRole="Attendance" />
+          <NavigationProperty Name="Organization" Relationship="Domain.FK_Member_Organization" FromRole="Member" ToRole="Organization" />
+        </EntityType>
+        <EntityType Name="Organization" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="Name" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="CourseDescriptions" Relationship="Domain.FK_CourseDescription_Organization" FromRole="Organization" ToRole="CourseDescription" />
+          <NavigationProperty Name="Members" Relationship="Domain.FK_Member_Organization" FromRole="Organization" ToRole="Member" />
+          <NavigationProperty Name="Regions" Relationship="Domain.FK_Region_Organization" FromRole="Organization" ToRole="Region" />
+        </EntityType>
+        <EntityType Name="Region" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="OrganizationId" Type="Guid" Nullable="false" />
+          <Property Name="RegionName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <NavigationProperty Name="CourseInstances" Relationship="Domain.FK_CourseInstance_Region" FromRole="Region" ToRole="CourseInstance" />
+          <NavigationProperty Name="Organization" Relationship="Domain.FK_Region_Organization" FromRole="Region" ToRole="Organization" />
+          <NavigationProperty Name="Suburbs" Relationship="Domain.FK_Suburb_Region" FromRole="Region" ToRole="Suburb" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Session" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="ClassGroupId" Type="Guid" Nullable="false" />
+          <Property Name="AreaId" Type="Guid" Nullable="false" />
+          <Property Name="Date" Type="DateTime" Nullable="false" Precision="0" />
+          <NavigationProperty Name="Area" Relationship="Domain.FK_Session_Area" FromRole="Session" ToRole="Area" />
+          <NavigationProperty Name="Attendances" Relationship="Domain.FK_Attendance_Session" FromRole="Session" ToRole="Attendance" />
+          <NavigationProperty Name="ClassGroup" Relationship="Domain.FK_Session_ClassGroup" FromRole="Session" ToRole="ClassGroup" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <EntityType Name="Suburb" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="SuburbName" Type="String" Nullable="false" MaxLength="50" Unicode="false" FixedLength="false" />
+          <Property Name="Postcode" Type="String" Nullable="false" MaxLength="4" Unicode="false" FixedLength="false" />
+          <Property Name="RegionId" Type="Guid" Nullable="false" />
+          <NavigationProperty Name="Region" Relationship="Domain.FK_Suburb_Region" FromRole="Suburb" ToRole="Region" />
+          <NavigationProperty Name="Venues" Relationship="Domain.FK_Venue_Suburb" FromRole="Suburb" ToRole="Venue" />
+          <Property Type="Boolean" Name="Active" Nullable="false" DefaultValue="True" annotation:StoreGeneratedPattern="None" />
+        </EntityType>
+        <EntityType Name="Venue" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Guid" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="VenueName" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+          <Property Name="VenueAddress" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+          <Property Name="SuburbId" Type="Guid" Nullable="false" />
+          <NavigationProperty Name="Areas" Relationship="Domain.FK_Area_Venue" FromRole="Venue" ToRole="Area" />
+          <NavigationProperty Name="Suburb" Relationship="Domain.FK_Venue_Suburb" FromRole="Venue" ToRole="Suburb" />
+          <Property Type="Boolean" Name="Active" Nullable="false" />
+        </EntityType>
+        <Association Name="FK_Area_Venue">
+          <End Role="Venue" Type="Domain.Venue" Multiplicity="1" />
+          <End Role="Area" Type="Domain.Area" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Venue">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Area">
+              <PropertyRef Name="VenueId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ClassGroup_Area">
+          <End Role="Area" Type="Domain.Area" Multiplicity="1" />
+          <End Role="ClassGroup" Type="Domain.ClassGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ClassGroup">
+              <PropertyRef Name="DefaultAreaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Session_Area">
+          <End Role="Area" Type="Domain.Area" Multiplicity="1" />
+          <End Role="Session" Type="Domain.Session" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Area">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Session">
+              <PropertyRef Name="AreaId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Attendance_Member">
+          <End Role="Member" Type="Domain.Member" Multiplicity="1" />
+          <End Role="Attendance" Type="Domain.Attendance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Member">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Attendance">
+              <PropertyRef Name="MemberId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Attendance_Session">
+          <End Role="Session" Type="Domain.Session" Multiplicity="1" />
+          <End Role="Attendance" Type="Domain.Attendance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Session">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Attendance">
+              <PropertyRef Name="SessionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_ClassGroup_CourseInstance1">
+          <End Role="CourseInstance" Type="Domain.CourseInstance" Multiplicity="1" />
+          <End Role="ClassGroup" Type="Domain.ClassGroup" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CourseInstance">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="ClassGroup">
+              <PropertyRef Name="CourseInstanceId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Session_ClassGroup">
+          <End Role="ClassGroup" Type="Domain.ClassGroup" Multiplicity="1" />
+          <End Role="Session" Type="Domain.Session" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="ClassGroup">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Session">
+              <PropertyRef Name="ClassGroupId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseDescription_Organization">
+          <End Role="Organization" Type="Domain.Organization" Multiplicity="1" />
+          <End Role="CourseDescription" Type="Domain.CourseDescription" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseDescription">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseInstance_Course1">
+          <End Role="CourseDescription" Type="Domain.CourseDescription" Multiplicity="1" />
+          <End Role="CourseInstance" Type="Domain.CourseInstance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="CourseDescription">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseInstance">
+              <PropertyRef Name="CourseId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_CourseInstance_Region">
+          <End Role="Region" Type="Domain.Region" Multiplicity="1" />
+          <End Role="CourseInstance" Type="Domain.CourseInstance" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Region">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="CourseInstance">
+              <PropertyRef Name="RegionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Member_Organization">
+          <End Role="Organization" Type="Domain.Organization" Multiplicity="1" />
+          <End Role="Member" Type="Domain.Member" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Member">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Region_Organization">
+          <End Role="Organization" Type="Domain.Organization" Multiplicity="1" >
+          </End>
+          <End Role="Region" Type="Domain.Region" Multiplicity="*" >
+          </End>
+          <ReferentialConstraint>
+            <Principal Role="Organization">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Region">
+              <PropertyRef Name="OrganizationId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Suburb_Region">
+          <End Role="Region" Type="Domain.Region" Multiplicity="1" />
+          <End Role="Suburb" Type="Domain.Suburb" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Region">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Suburb">
+              <PropertyRef Name="RegionId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Venue_Suburb">
+          <End Role="Suburb" Type="Domain.Suburb" Multiplicity="1" />
+          <End Role="Venue" Type="Domain.Venue" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Suburb">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Venue">
+              <PropertyRef Name="SuburbId" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityType Name="Present" BaseType="Domain.Attendance" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+        <EntityType Name="Visitor" BaseType="Domain.Attendance" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+        <EntityType Name="Absent" BaseType="Domain.Attendance" a:TypeAccess="Internal" xmlns:a="http://schemas.microsoft.com/ado/2006/04/codegeneration" />
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="DomainStoreContainer" CdmEntityContainer="U3AContext">
+          <EntitySetMapping Name="Areas">
+            <EntityTypeMapping TypeName="Domain.Area">
+              <MappingFragment StoreEntitySet="Area">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Room" ColumnName="Room" />
+                <ScalarProperty Name="VenueId" ColumnName="VenueId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Attendances">
+            <EntityTypeMapping TypeName="IsTypeOf(Domain.Attendance)">
+              <MappingFragment StoreEntitySet="Attendance">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="MemberId" ColumnName="MemberId" />
+                <ScalarProperty Name="SessionId" ColumnName="SessionId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+            <EntityTypeMapping TypeName="IsTypeOf(Domain.Visitor)">
+              <MappingFragment StoreEntitySet="Attendance">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <Condition ColumnName="Code" Value="V" />
+              </MappingFragment>
+            </EntityTypeMapping>
+            <EntityTypeMapping TypeName="IsTypeOf(Domain.Present)">
+              <MappingFragment StoreEntitySet="Attendance">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <Condition ColumnName="Code" Value="P" />
+              </MappingFragment>
+            </EntityTypeMapping>
+            <EntityTypeMapping TypeName="IsTypeOf(Domain.Absent)">
+              <MappingFragment StoreEntitySet="Attendance">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <Condition ColumnName="Code" Value="A" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ClassGroups">
+            <EntityTypeMapping TypeName="Domain.ClassGroup">
+              <MappingFragment StoreEntitySet="ClassGroup">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="StudentCount" ColumnName="StudentCount" />
+                <ScalarProperty Name="DefaultAreaId" ColumnName="DefaultAreaId" />
+                <ScalarProperty Name="CourseInstanceId" ColumnName="CourseInstanceId" />
+                <ScalarProperty Name="ClassGroupName" ColumnName="ClassGroupName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CourseDescriptions">
+            <EntityTypeMapping TypeName="Domain.CourseDescription">
+              <MappingFragment StoreEntitySet="CourseDescription">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+                <ScalarProperty Name="Description" ColumnName="CourseDescription" />
+                <ScalarProperty Name="OrganizationId" ColumnName="OrganizationId" />
+                <ScalarProperty Name="CourseNumber" ColumnName="CourseNumber" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="CourseInstances">
+            <EntityTypeMapping TypeName="Domain.CourseInstance">
+              <MappingFragment StoreEntitySet="CourseInstance">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="CourseLeader" ColumnName="CourseLeader" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="CourseId" ColumnName="CourseId" />
+                <ScalarProperty Name="RegionId" ColumnName="RegionId" />
+                <ScalarProperty Name="CourseCode" ColumnName="CourseCode" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Members">
+            <EntityTypeMapping TypeName="Domain.Member">
+              <MappingFragment StoreEntitySet="Member">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="OrganizationId" ColumnName="OrganizationId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Organizations">
+            <EntityTypeMapping TypeName="Domain.Organization">
+              <MappingFragment StoreEntitySet="Organization">
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="Name" ColumnName="Name" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Regions">
+            <EntityTypeMapping TypeName="Domain.Region">
+              <MappingFragment StoreEntitySet="Region">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="OrganizationId" ColumnName="OrganizationId" />
+                <ScalarProperty Name="RegionName" ColumnName="RegionName" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Sessions">
+            <EntityTypeMapping TypeName="Domain.Session">
+              <MappingFragment StoreEntitySet="Session">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="ClassGroupId" ColumnName="ClassGroupId" />
+                <ScalarProperty Name="AreaId" ColumnName="AreaId" />
+                <ScalarProperty Name="Date" ColumnName="Date" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Suburbs">
+            <EntityTypeMapping TypeName="Domain.Suburb">
+              <MappingFragment StoreEntitySet="Suburb">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="SuburbName" ColumnName="SuburbName" />
+                <ScalarProperty Name="Postcode" ColumnName="Postcode" />
+                <ScalarProperty Name="RegionId" ColumnName="RegionId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Venues">
+            <EntityTypeMapping TypeName="Domain.Venue">
+              <MappingFragment StoreEntitySet="Venue">
+                <ScalarProperty Name="Active" ColumnName="Active" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+                <ScalarProperty Name="VenueName" ColumnName="VenueName" />
+                <ScalarProperty Name="VenueAddress" ColumnName="VenueAddress" />
+                <ScalarProperty Name="SuburbId" ColumnName="SuburbId" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="True" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="True" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

@@ -1,0 +1,48 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.CourseInstanceModel
+
+@{
+    ViewBag.Title = "create course instance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="wizardcontents">  
+      <h2>create a course instance now!</h2>
+
+    <fieldset class="managecourseinst">
+        <legend>CourseInstanceModel</legend>
+        
+            
+            <h5 class="h5-courseinst">Select a Course</h5>
+            @Html.DropDownListFor(m => m.CourseDescriptionId, new SelectList(Model.CourseDescriptions.ToList(),"Id","CourseName"),new { @class = "courselistforcinst"})
+            
+            <h5 class="h5-courseinst">Select a Region</h5>
+            @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions,"Id","RegionName"),new { @class = "courselistforcinst"})
+                     
+             <h5 class="h5-courseinst">Select a Course Instance</h5>
+            @Html.DropDownListFor(m => m.Id, new SelectList(Model.CourseInstances, "Id","CourseCode"),new { @class = "courselistforcints"})   
+               
+            <input type="button" value="Back" onclick="location.href='Index'" /> <input type="submit" value="Disable" />
+       
+          @Html.HiddenFor(model => model.RegionId)
+          @Html.HiddenFor(model => model.CourseDescriptionId)
+          @Html.HiddenFor(model => model.CourseLeader)
+
+    </fieldset>
+        </div>
+}
+
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

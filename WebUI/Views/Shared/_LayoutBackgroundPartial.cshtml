@@ -1,0 +1,16 @@
+﻿<div class="backicon">
+    @if(Roles.IsUserInRole("RegionalCoordinator"))
+    {
+     <a href="@Url.Action("Index", "RegionalCoordinator")" class="backbutton">
+         <img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+
+}
+</div>
+<div class="backicon">
+@if(Roles.IsUserInRole("CourseLeader"))
+{
+    <a href="@Url.Action("Index", "CourseLeader")" class="backbutton">
+         <img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+}
+</div>
+<div class="containercontent"></div>

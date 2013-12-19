@@ -1,0 +1,48 @@
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\bin\Debug\U3A.Domain.exe.config
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\bin\Debug\U3A.Domain.exe
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\obj\Debug\U3A.Domain.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\obj\Debug\U3A.Domain.exe
+C:\Users\p404\Desktop\U3A.Domain\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p404\Desktop\U3A\U3A.Domain\bin\Debug\U3A.Domain.exe.config
+C:\Users\p404\Desktop\U3A\U3A.Domain\obj\Debug\U3A.Domain.exe
+C:\Users\p404\Desktop\U3A\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p404\Desktop\U3A\U3A.Domain\bin\Debug\U3A.Domain.exe
+C:\Users\p404\Desktop\U3A\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p404\Desktop\U3A\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A\U3A.Domain\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A\U3A.Domain\obj\Debug\U3A.Domain.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.45\U3A.Domain\bin\Debug\U3A.Domain.exe.config
+C:\Users\p404\Desktop\U3A v0.45\U3A.Domain\obj\Debug\U3A.Domain.exe
+C:\Users\p404\Desktop\U3A v0.45\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\bin\Debug\U3A.Domain.dll.config
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.45\U3A.Domain\obj\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\obj\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\bin\Debug\U3A.Domain.dll.config
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Domain\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\bin\Debug\U3A.Domain.dll.config
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\obj\Debug\U3A.Domain.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\obj\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.452\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\obj\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\obj\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\bin\Debug\U3A.Domain.dll.config
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.453\U3A.Domain\bin\Debug\EntityFramework.xml

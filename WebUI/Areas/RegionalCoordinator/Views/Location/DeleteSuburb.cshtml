@@ -1,0 +1,85 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+@{
+    ViewBag.Title = "Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@if (false)
+{ 
+    <script src="~/scripts/jquery-1.7.1.intellisense.js"></script>
+}
+
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+
+<div class="wizardcontents">
+   <h2>Disable a suburb!</h2>
+    <fieldset id="suburb-disable">
+    
+    <legend class="legend-crud">Select a Region below and the Suburb you wish to disable:</legend>
+    @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(), "Id", "RegionName"),
+     new { @class = "region-del-list-sub", @size = Model.Regions.Count() +1 })
+    @Html.DropDownListFor(m => m.SuburbId, Enumerable.Empty<SelectListItem>(), new { @class = "suburb-drop", @size=10})
+    
+     <input type="button" value="Back" onclick="location.href = 'Index'" />   <button id="deleteSuburb">Save Changes</button>
+
+</fieldset>
+</div>
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        var suburbId = null;
+        var regionId = null;
+
+     $("#RegionId").change(function () {
+            regionId = $(this).val();
+            $.ajax({
+                url: '@Url.Action("SelectRegion", "Location")',
+            data: { ID: $(this).val(), },
+            type: 'POST',
+            success: function (data) {
+                $("#SuburbId").html(data);
+            }
+        });
+    });
+    $("#SuburbId").change(function () {
+        suburbId = $(this).val();
+        $.ajax({
+            url: '@Url.Action("SelectSuburb", "Location")',
+            data: { Sid: $(this).val(), Rid: $("#RegionId").val() },
+            type: 'POST',
+            success: function (data) {
+                
+            }
+        });
+    });
+
+    $("#deleteSuburb").click(function () {
+        
+        $.ajax({
+            url: '@Url.Action("DeleteSuburb", "Location")',
+            data: { Rid: regionId, Sid: suburbId },
+            type: 'POST',
+            success: function (){
+                window.location.href = "Index"
+
+            }
+
+        });
+
+
+    });
+
+
+
+    </script>
+}
+
+
+
+
+
+

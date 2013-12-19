@@ -1,0 +1,112 @@
+﻿@model WebUI.Areas.CourseLeader.Models.ClassGroup
+
+@if (false)
+{ 
+    <script src="~/scripts/jquery-1.7.1.intellisense.js"></script>
+}
+
+
+@{
+    ViewBag.Title = "CreateClassGroup";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+<h1>create class group!</h1>
+<br />
+
+<div>
+<div id="cg-subcont">
+<h6>select a suburb</h6>
+ @Html.DropDownListFor(m => m.SuburbId, new SelectList(Model.Suburbs.ToList(), "Id", "SuburbName"),
+        new { @class = "cg-selections", @size = 10})
+</div>
+
+<div id="cg-vencont">
+<h6>select a venue</h6>
+ @Html.DropDownListFor(m => m.VenueId, Enumerable.Empty<SelectListItem>(), 
+        new { @class = "cg-selections-venue", @size=10})
+</div>
+
+<div id="cg-areacont">
+<h6>select an area</h6>
+ @Html.DropDownListFor(m => m.AreaId, Enumerable.Empty<SelectListItem>(), 
+        new { @class = "cg-selections-area", @size=10})
+</div>
+</div>
+    @*Group Name *@
+<div id="create-class-group">
+    @Html.LabelFor(m => m.GroupName)
+    @Html.EditorFor(m => m.GroupName)
+
+    @*Student Count*@ 
+    @Html.LabelFor(m => m.StudentCount)
+    @Html.EditorFor(m => m.StudentCount)
+
+    @*Area*@
+
+    <button id="create">Create Group</button>
+    
+    @Html.HiddenFor(m => m.RegionId)
+    @Html.HiddenFor(m => m.CourseInstanceId)
+   </div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script type="text/javascript">
+        var SuburbId = null;
+        var VenueId = null;
+        var AreaId = null;
+        var regionId = null;
+        var courseInstanceId = null;
+        var studentCount = null;
+        var groupName = null;
+
+
+        $("#SuburbId").change(function () {
+            SuburbId = $(this).val();
+            regionId = $("#RegionId").val();
+            courseInstanceId = $("#CourseInstanceId").val();
+            $.ajax({
+                url: '@Url.Action("SelectSuburb", "CourseLeader")',
+                data: { Rid: $("#RegionId").val() , Sid: $(this).val(), },
+                type: 'POST',
+                success: function (data) {
+                    $("#VenueId").html(data);
+                }
+            });
+        });
+
+        $("#VenueId").change(function () {
+            VenueId = $(this).val();
+            $.ajax({
+                url: '@Url.Action("SelectVenue", "CourseLeader")',
+                data: { Rid: $("#RegionId").val(), Sid: SuburbId, Vid: $(this).val() },
+                type: 'POST',
+                success: function (data) {                                   
+                        $("#AreaId").html(data);
+                    
+                }
+            });
+        });
+
+        $("#AreaId").change(function () {
+            AreaId = $("#AreaId").val();         
+        });
+
+        $("#create").click(function () {
+            
+            $.ajax({
+                url: '@Url.Action("CreateClassGroup", "CourseLeader")',
+                data: { Rid: $("#RegionId").val(), Aid: AreaId, Cid: $("#CourseInstanceId").val(), Count: $("#StudentCount").val(), Name: $("#GroupName").val(), },
+                type: 'POST',
+                success: function (data) {
+                    window.location.href = "Index";
+                }
+            });
+        });
+    </script>
+}

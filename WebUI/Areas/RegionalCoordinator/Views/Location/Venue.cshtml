@@ -1,0 +1,47 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+ @{
+    ViewBag.Title = "Venue";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   }
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+@using (Html.BeginForm()){
+<div class="wizardcontents">
+     <h2>3) please select a venue or create one!</h2>
+
+<fieldset class="listedopt">
+     <h5 class="regionpicked">YOU SELECTED THE FOLLOWING REGION: &nbsp " @Html.DisplayTextFor(m => m.RegionName) "</h5>
+     <h5 class="suburbpicked">YOU SELECTED THE FOLLOWING SUBURB: &nbsp " @Html.DisplayTextFor(m => m.SuburbName) "</h5>
+    
+     <legend class="legend">insert the name of the new venue below or pick it from the list!</legend>
+    <ol>
+        
+        <li>@Html.HiddenFor(m => m.RegionId)</li>
+        <li>@Html.HiddenFor(m => m.SuburbId)</li>
+        <li>@Html.HiddenFor(m => m.RegionName)</li>
+        <li>@Html.HiddenFor(m => m.SuburbName)</li>
+         @if(Model.Venues.Count() != 0)
+        {
+            
+           <li>@Html.DropDownListFor(m => m.VenueId, new SelectList(Model.Venues.ToList(), "Id", "VenueName"), new { @class = "venuelist", @size = Model.Venues.Count() + 1 })</li>
+        }
+        else
+        {
+            <li class="arealist">No Venues exist.</li>
+            
+        }
+        
+        <li>@Html.LabelFor(m => m.venueName)</li>
+        <li>@Html.EditorFor(m => m.venueName)</li>
+        <li>@Html.LabelFor(m => m.venueAddress)</li>
+        <li>@Html.EditorFor(m => m.venueAddress)</li>
+    </ol>
+    <input type="submit" value="Next" />
+    <div>@Html.ValidationMessage("Exception")</div>
+</fieldset>
+    </div>
+}
+

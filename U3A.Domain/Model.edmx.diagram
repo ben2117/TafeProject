@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="57982c51671f4878a4fabc48b0782c44" Name="Diagram1" ZoomLevel="109">
+        <EntityTypeShape EntityType="Domain.Area" Width="1.5" PointX="9.75" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Attendance" Width="1.5" PointX="13.125" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.ClassGroup" Width="1.5" PointX="12" PointY="7.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.CourseDescription" Width="2.875" PointX="6.375" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.CourseInstance" Width="1.5" PointX="1.25" PointY="3.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Member" Width="1.5" PointX="6.5" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Organization" Width="1.5" PointX="4" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Region" Width="1.5" PointX="2.875" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Session" Width="1.5" PointX="15" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Suburb" Width="1.5" PointX="5.25" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Domain.Venue" Width="1.5" PointX="7.5" PointY="6.5" IsExpanded="true" />
+        <AssociationConnector Association="Domain.FK_Area_Venue" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_ClassGroup_Area" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Session_Area" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Attendance_Member" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Attendance_Session" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_ClassGroup_CourseInstance1" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Session_ClassGroup" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_CourseDescription_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_CourseInstance_Course1" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_CourseInstance_Region" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Member_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Region_Organization" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Suburb_Region" ManuallyRouted="false" />
+        <AssociationConnector Association="Domain.FK_Venue_Suburb" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="Domain.Present" Width="1.5" PointX="13.125" PointY="2" />
+        <InheritanceConnector EntityType="Domain.Present" />
+        <EntityTypeShape EntityType="Domain.Visitor" Width="1.5" PointX="15.5" PointY="3.5" />
+        <InheritanceConnector EntityType="Domain.Visitor" />
+        <EntityTypeShape EntityType="Domain.Absent" Width="1.5" PointX="10.625" PointY="3.5" />
+        <InheritanceConnector EntityType="Domain.Absent" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

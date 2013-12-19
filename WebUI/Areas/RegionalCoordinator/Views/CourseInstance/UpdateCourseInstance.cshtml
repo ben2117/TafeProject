@@ -1,0 +1,52 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.CourseInstanceModel
+
+@{
+    ViewBag.Title = "Create Course Instance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CreateCourseInstance</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    
+
+    <fieldset>
+        <legend>CourseInstanceModel</legend>
+        <div class="editor-field">
+            
+            <br /> Course Description 
+            @Html.DropDownListFor(m => m.CourseDescriptionId, new SelectList(Model.CourseDescriptions,"Id","CourseName"))
+            <br /> 
+            Select Region 
+            @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions,"Id","RegionName"))         
+            <br /> Select Course Leader  
+            @Html.DropDownListFor(m => m.CourseLeader, new SelectList(Model.CourseLeaders.ToList()))
+
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model => model.CourseCode)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.CourseCode)
+            @Html.ValidationMessageFor(model => model.CourseCode)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+          @Html.HiddenFor(model => model.RegionId)
+          @Html.HiddenFor(model => model.CourseDescriptionId)
+          @Html.HiddenFor(model => model.CourseLeader)
+
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

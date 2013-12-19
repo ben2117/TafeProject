@@ -1,0 +1,453 @@
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.45\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.451\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.452\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\U3A.Domain.dll
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\U3A.Domain.pdb
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.453\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.454\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v0.455\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.459\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.460\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+D:\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+D:\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\Domain.dll
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\EntityFramework.dll
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\Domain.pdb
+D:\U3A v0.464\U3A.Hook-In\bin\Debug\EntityFramework.xml
+D:\U3A v0.464\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.5.0.0\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+Z:\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+Z:\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\Domain.dll
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\EntityFramework.dll
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\Domain.pdb
+Z:\U3A v0.5.2\U3A.Hook-In\bin\Debug\EntityFramework.xml
+Z:\U3A v0.5.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\fxmle\Desktop\U3A v0.5.3\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\fxmle\Desktop\U3A v0.5.3\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\fxmle\Desktop\U3A v0.5.3\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v0.6.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\Domain.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\EntityFramework.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\Domain.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\bin\Debug\EntityFramework.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.6.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7.2\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\Domain.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\EntityFramework.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\Domain.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\bin\Debug\EntityFramework.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+D:\U3A v0.7.5\U3A v0.7.2dbchange\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v 0.7.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v 0.7.9 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.5 - Copy - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\pc\Desktop\U3A v.0.8.6\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.8.8\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v.0.9\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p415\Desktop\U3A v.0.9.3\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe.config
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\U3A.Hook-In.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.exe
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\U3A.Hook-In\obj\Debug\U3A.Hook-In.pdb

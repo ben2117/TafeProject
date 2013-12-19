@@ -1,0 +1,62 @@
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p405\Desktop\U3A v0.455\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p405\Desktop\U3A v0.457\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p415\Desktop\U3A v0.459\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.460\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p404\Desktop\U3A v0.5.2\U3A.Domain\obj\Release\Domain.pdb
+Z:\U3A v0.5.2\U3A.Domain\bin\Release\Domain.dll.config
+Z:\U3A v0.5.2\U3A.Domain\bin\Release\Domain.dll
+Z:\U3A v0.5.2\U3A.Domain\bin\Release\Domain.pdb
+Z:\U3A v0.5.2\U3A.Domain\bin\Release\EntityFramework.dll
+Z:\U3A v0.5.2\U3A.Domain\bin\Release\EntityFramework.xml
+Z:\U3A v0.5.2\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+Z:\U3A v0.5.2\U3A.Domain\obj\Release\Domain.dll
+Z:\U3A v0.5.2\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\bin\Release\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\obj\Release\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7\U3A.Domain\obj\Release\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\bin\Release\Domain.dll.config
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\bin\Release\Domain.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\bin\Release\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\bin\Release\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\bin\Release\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\obj\Release\Domain.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\obj\Release\Domain.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\U3A.Domain\obj\Release\Domain.pdb

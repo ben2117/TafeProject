@@ -1,0 +1,37 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+@{
+    ViewBag.Title = "Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+@using (Html.BeginForm())
+{
+    <div class="wizardcontents">
+        <h2>create a suburb!</h2>
+
+        <fieldset id="suburb-create">
+            <legend class="legend-crud">Select a Region and insert the name & post-code of the new Suburb below:</legend>
+                    @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(), "Id", "RegionName"),
+                    new { @class = "region-del-list-sub",@size=Model.Regions.Count()+1})
+            
+            
+
+
+            <div class="suburb-create-input">
+            <h5 class="h5-courseinst">Suburb name:</h5>
+            @Html.EditorFor(m => m.SuburbName)
+            
+            <h5 class="h5-courseinst">Postcode:</h5>
+            @Html.EditorFor(m => m.Postcode)
+
+            <input type="button" value="Back" onclick="location.href = 'Index'" /> <input type="submit" value="Save Changes" />
+                <div>@Html.ValidationMessage("Exception")</div>
+            </div>
+        </fieldset>
+    </div>
+}

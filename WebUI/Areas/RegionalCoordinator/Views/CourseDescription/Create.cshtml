@@ -1,0 +1,41 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.CourseDescription.Create
+
+@{
+    ViewBag.Title = "CourseDescription";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+
+
+@using (Html.BeginForm()) {
+  <div class="wizardcontents">  
+      <h2>Create a course description now!</h2>
+
+    <fieldset>
+        <legend>Course Description</legend>
+
+        <ol>
+            <li>@Html.LabelFor(model => model.CourseName)</li>        
+            <li>@Html.EditorFor(model => model.CourseName)</li>
+                    
+            <li>@Html.LabelFor(model => model.Description)</li>        
+            <li>@Html.EditorFor(model => model.Description)</li>
+                    
+            <li>@Html.LabelFor(model => model.CourseNumber)</li>        
+            <li>@Html.EditorFor(model => model.CourseNumber)</li>
+            
+        </ol>
+
+        
+        <input type="button" value="Back" onclick="location.href='Index'" /> <input type="submit" value="Create new Course" /> 
+        
+    </fieldset>
+  </div>
+}
+
+

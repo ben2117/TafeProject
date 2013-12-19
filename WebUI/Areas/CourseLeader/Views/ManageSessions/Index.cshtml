@@ -1,0 +1,36 @@
+﻿@model WebUI.Areas.CourseLeader.Models.ManageSession
+@{
+    ViewBag.Title = "CourseOptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+ <div class="backicon">
+        <a href="@Url.Action("Index", "CourseLeader", new { })" class="backbutton"><img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+    </div>
+
+<h1>sessions for class group: <b>@Model.classGroup</h1>
+
+
+
+<div class="tilecontainer">
+    <ul class="usermenu">
+        <li id="today-attendance"><a href="@Url.Action("MarkAttendanceToday", "CourseLeader", new { regionId = Model.regionId, courseInstanceId = Model.courseInstanceId, classGroupId = Model.classGroupId })">today attendance</a></li>
+        <li id="view-attendance"><a href="@Url.Action("ViewAttendance", "CourseLeader", new { regionId = Model.regionId, courseInstanceId = Model.courseInstanceId, classGroupId = Model.classGroupId })">view attendance</a></li>
+        <li id="create-session"><a href='@Url.Action("CreateNewSession","ManageSessions", new { classGroupId = Model.classGroupId, courseInstanceId = Model.courseInstanceId, regionId = Model.regionId })'>create session</a></li>
+    </ul>
+
+
+<br />
+    <div id="session-wrap">
+        <h5>mark attendance for all sessions</h5>
+        <ul id="session-list-style">
+            
+        @foreach (var s in Model.Sessions)
+         { 
+            <li><a href="@Url.Action("MarkAttendance", "CourseLeader", new { regionId = Model.regionId, courseInstanceId = Model.courseInstanceId, classGroupId = Model.classGroupId, sessionId = s.Id })">Mark Attendance for  @s.Date</a></li>
+         }
+        </ul>
+        </div>
+    </div>
+    
+            
+    

@@ -1,0 +1,57 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+ @{
+    ViewBag.Title = "Suburb";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   }
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+@using (Html.BeginForm()){
+<div class="wizardcontents">
+     <h2>2) please select a suburb or create one!</h2>
+<fieldset class="listedopt">
+
+    <h5 class="regionpicked">YOU SELECTED THE FOLLOWING REGION: &nbsp " @Html.DisplayTextFor(m => m.RegionName) "</h5>
+
+    <legend class="legend">insert the name of the new suburb below or pick it from the list!</legend>
+    <div class="userimputsuburb">
+    <ol>
+        @*<li> @Html.DisplayTextFor(m => m.RegionName)</li> *@
+        @if(Model.Suburbs.Count() != 0)
+        {
+            
+            <li>@Html.DropDownListFor(m => m.SuburbId, new SelectList(Model.Suburbs.ToList(), "Id", "SuburbName"),
+            new { @class = "suburblist", @size = Model.Suburbs.Count() + 1 })</li>
+        }
+        else
+        {
+            <li class="arealist">No suburbs exist.</li>
+            
+        }
+        
+
+        
+        <li >@Html.LabelFor(m => m.SuburbName)</li>
+        <li >@Html.EditorFor(m => m.SuburbName)</li>
+        <li >@Html.LabelFor(m => m.Postcode)</li>
+        <li >@Html.EditorFor(m => m.Postcode)</li>
+
+        <li >@Html.HiddenFor(m => m.RegionId)</li>
+        <li >@Html.HiddenFor(m => m.RegionName)</li>
+        
+
+    </ol>
+        
+    <input type="button" value="Start Again!" onclick="location.href='Region'" /> <input type="submit" value="Next" />
+        <div>@Html.ValidationMessage("Exception")</div>
+</div>
+</fieldset>
+    </div>
+}
+
+
+
+
+ 

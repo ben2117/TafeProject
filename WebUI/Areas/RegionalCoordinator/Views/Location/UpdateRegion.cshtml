@@ -1,0 +1,29 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+ @{
+    ViewBag.Title = "Update Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   }
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+@using (Html.BeginForm()){
+    <div class="wizardcontents">
+    <h2>Update a region!</h2>
+<fieldset id="region-update">
+    
+    <legend >Modify region</legend>
+    <ol>
+        <li class="li-spacing">@Html.LabelFor(m => m.RegionId)</li>
+        <li>@Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(),"Id","RegionName"),new { @class = "region-update"})</li>
+        <li class="li-spacing">@Html.LabelFor(m => m.RegionName)</li>
+        <li>@Html.EditorFor(m => m.RegionName)</li>
+        
+    </ol>
+    <input type="button" value="Back" onclick="location.href='Index'" /> <input type="submit" value="Save Changes" />
+    <div>@Html.ValidationMessage("Exception")</div>
+</fieldset>
+</div>
+}

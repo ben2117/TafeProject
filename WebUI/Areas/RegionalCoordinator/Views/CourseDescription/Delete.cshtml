@@ -1,0 +1,45 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.CourseDescription.Delete
+
+@{
+    ViewBag.Title = "update course description";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+@{<script type="text/javascript">
+    function DDLWidth(dropDownListWidth)
+    {
+        var max = 0;
+        for (var x = 0; x < dropDownListWidth.length; x++)
+        {
+            if (dropDownListWidth.options[x].text.length > max)
+            {
+                max = dropDownListWidth.options[x].text.length;
+            }
+        }
+        dropDownListWidth.style.width = max * 10 + "%";
+
+    }
+
+</script>
+}
+@using (Html.BeginForm()){
+    <div class="wizardcontents">  
+      <h2>Delete a Course</h2>
+ <fieldset >
+        <legend>Course Description</legend>
+
+        
+        @Html.DropDownListFor(m =>m.Id  , Model.CourseDescriptions, "Id", "CourseName"), new { @class = "courselistforcinst"})
+     
+     
+
+    <input type="button" value="Back" onclick="location.href = 'Index'" /> <input type="submit" value="Disable" />
+
+</fieldset>
+        </div>
+}

@@ -1,0 +1,102 @@
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebMatrix.Data.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebMatrix.WebData.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebMatrix.Data.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\WebMatrix.WebData.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI\obj\Release\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7\WebUI\obj\Release\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI\obj\Release\WebUI.pdb
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebUI.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebUI.pdb
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Antlr3.Runtime.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Domain.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.Core.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Helpers.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Http.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Mvc.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Optimization.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Razor.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebGrease.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebMatrix.Data.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebMatrix.WebData.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Helpers.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Http.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Mvc.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.Razor.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebMatrix.Data.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\WebMatrix.WebData.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.Core.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\obj\Release\WebUI.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\obj\Release\WebUI.dll
+C:\Users\pc\Desktop\U3A v0.7.6 working ClassGroup\WebUI\obj\Release\WebUI.pdb

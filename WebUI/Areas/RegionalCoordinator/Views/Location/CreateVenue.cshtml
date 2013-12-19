@@ -1,0 +1,76 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+
+@if (false)
+{
+<script src="~/Scripts/jquery-1.7.1.intellisense.js"></script>
+}
+
+@{
+    ViewBag.Title = "ViewLocation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create a new Venue.</h2>
+     @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(), "Id", "RegionName"), string.Empty,
+        new { @class = "dropmenue" })
+    <br /><br />
+    @Html.DropDownListFor(m => m.SuburbId, Enumerable.Empty<SelectListItem>(),new { @class = "dropmenue"})
+    <br />
+
+    <br />
+    @Html.EditorFor(m => m.venueName)
+
+    <br />
+    @Html.EditorFor(m => m.venueAddress)
+    <br />
+   
+<button id="CreateVenue">Save Changes</button>
+<div>@Html.ValidationMessage("Exception")</div>
+   <div><h2 id="DisplayData"></h2></div>
+   
+
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+ <script type="text/javascript">
+     var suburb = null;
+     var region = null;
+     $("#RegionId").change(function () {
+         region = $(this).val();
+         $.ajax({
+             url: '@Url.Action("SelectRegion", "Location")',
+             data: { ID: $(this).val() },
+             type: 'POST',
+             success: function (data) {
+                 $("#SuburbId").html(data);
+
+             }
+
+         });
+     });
+
+     $("#SuburbId").change(function () {
+         suburb = $(this).val();
+     });
+
+     
+
+
+
+
+     $("#CreateVenue").click(function () {
+         $.ajax({
+             url: '@Url.Action("CreateVenue", "Location")',
+             data: { regionId: region, suburbId: suburb, venueName: $("#venueName").val(), venueAddress: $("#venueAddress").val() },
+             type: 'POST',
+             success: function(data) {
+                 window.location.href = "Index";
+
+             }
+
+         });
+
+     });
+
+</script>
+}

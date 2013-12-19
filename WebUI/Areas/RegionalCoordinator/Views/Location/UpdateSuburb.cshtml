@@ -1,0 +1,35 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+ @{
+    ViewBag.Title = "update suburb";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+   }
+
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+@using (Html.BeginForm()){
+    <div class="wizardcontents">
+    <h2>Update a suburb!</h2>
+
+<fieldset id="suburb-update">
+    
+    <legend class="legend-crud">Select a Suburb and modify the details below:</legend>
+    
+        @Html.HiddenFor(m => m.RegionId)
+        @Html.DropDownListFor(m => m.SuburbId, new SelectList(Model.Suburbs.ToList(), "Id", "SuburbName"), new { @size = Model.Suburbs.Count() + 1, @class="suburb-drop" })
+        
+        <div class="suburb-create-input">
+        <h5 class="h5-courseinst">Suburb name:</h5>
+        @Html.EditorFor(m => m.SuburbName)
+
+        <h5 class="h5-courseinst">Post-code:</h5>
+        @Html.EditorFor(m => m.Postcode)
+    
+        <input type="button" value="Back" onclick="location.href = 'Index'" /> <input type="submit" value="Save Changes" />
+            <div>@Html.ValidationMessage("Exception")</div>
+        </div>
+
+</fieldset>
+</div>
+}

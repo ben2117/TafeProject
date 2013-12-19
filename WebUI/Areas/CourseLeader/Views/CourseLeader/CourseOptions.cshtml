@@ -1,0 +1,40 @@
+﻿@model WebUI.Areas.CourseLeader.Models.CourseOptions
+@{
+    ViewBag.Title = "CourseOptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ <div class="backicon">
+        <a href="@Url.Action("Index", "CourseLeader", new {area="CourseLeader" })" class="backbutton"><img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+    </div>
+
+<h1>class groups for:</h1>
+<h1>select a class group from the list below!</h1>
+
+<br />
+
+
+
+    <div class=" .add-item-box">
+        <ul class="usermenuhoriz">
+            <li class="add-item">@Html.ActionLink("create class group", "CreateClassGroup", new { instanceId = Model.CourseInstanceId, regionId = Model.RegionId })</li>
+        </ul>
+    </div>
+
+
+    @foreach(var cg in Model.ClassGroups)
+    {
+        <div class="locationbox">
+        <p class="boxtitle">@cg.ClassGroupName</p>
+
+        <ul class="usermenuhoriz">
+            <li id="regiondelete">@Html.ActionLink("disable","DeleteRegion","Location")</li>
+            <li id="regionupdate">@Html.ActionLink("modify","UpdateRegion","Location")</li>
+            <li class="manageSession"><a href="@Url.Action("Index","ManageSessions",new { courseInstanceId = Model.CourseInstanceId, regionId = Model.RegionId, classId = cg.Id })" >Manage Sessions</a></li>
+        </ul>
+    </div>
+    }
+
+
+
+

@@ -1,0 +1,21 @@
+﻿@model WebUI.Areas.CourseLeader.Models.CourseLeader
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>welcome to your personal home page!</h1>
+<h1>please select a course below!</h1>
+<div id="courseList-wrap">  
+@foreach (var ci in Model.Courses)
+{
+     
+    <ul>
+        <li class="courseList"><a href="@Url.Action("CourseOptions", "CourseLeader", new { instanceId = ci.Id, regionId = ci.RegionId })">@ci.ICourseDescription.CourseName</a></li>
+    </ul>
+     
+}
+</div>
+
+

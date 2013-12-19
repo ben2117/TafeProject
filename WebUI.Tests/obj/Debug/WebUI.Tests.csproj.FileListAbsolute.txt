@@ -1,0 +1,750 @@
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\pc\Desktop\U3A v0.5.3lazyload\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.5.6lazyload - with WebUI - Working Create Wizard - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p404\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.6 lazyload - with WebUI - Working Create Wizard\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\pc\Desktop\U3A v0.6.8\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p404\Desktop\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\EntityFramework.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Domain.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebGrease.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\WebUI.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\EntityFramework.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Domain.pdb
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+D:\U3A v0.6.8 - Started adding BusinessRule Exceptions. Added some Java Script to update course descriptions\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p415\Desktop\U3A v0.6.9\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7 - Copy - Copy\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7.2\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Http.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebUI.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\EntityFramework.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Domain.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebGrease.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\WebUI.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Http.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\EntityFramework.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Domain.pdb
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+D:\U3A v0.7.5\U3A v0.7.2dbchange\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p415\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.dll.config
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.Tests.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Helpers.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Mvc.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebGrease.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Antlr3.Runtime.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\WebUI.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Helpers.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Mvc.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.AspNet.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.Core.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OAuth.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\bin\Debug\DotNetOpenAuth.OpenId.xml
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.dll
+C:\Users\p403\Desktop\U3A v0.7.5 working ClassGroup\WebUI.Tests\obj\Debug\WebUI.Tests.pdb

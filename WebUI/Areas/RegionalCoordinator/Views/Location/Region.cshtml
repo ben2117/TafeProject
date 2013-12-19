@@ -1,0 +1,42 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+@{
+    ViewBag.Title = "Region";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+@using (Html.BeginForm())
+{
+    
+    
+    <div class="wizardcontents">
+        <h2>1) please select a region or create one!</h2>
+
+        <fieldset class="listedopt">
+            <legend class="legend">insert the name of new region below or pick it from the list!</legend>
+
+            @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(), "Id", "RegionName"),
+        new { @class = "dropmenue", @size = Model.Regions.Count()}
+     )
+
+
+
+            <div class="userimput">
+                <ol>
+                    <li>@Html.EditorFor(m => m.RegionName)</li>
+                </ol>
+
+                
+                    <input type="submit" value="Next" />
+                   <div>@Html.ValidationMessage("Exception")
+                </div>
+            </div>
+        </fieldset>
+    </div>
+}
+
+

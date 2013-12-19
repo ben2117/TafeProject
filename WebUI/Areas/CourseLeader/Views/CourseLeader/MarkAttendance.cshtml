@@ -1,0 +1,55 @@
+﻿@model WebUI.Areas.CourseLeader.Models.Attendance
+@{
+    ViewBag.Title = "MarkAttendance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+<h1>mark attendance for the members!</h1>
+<br />
+
+<div id="attendance-form">
+@using(Html.BeginForm())
+{
+    <div class="mark-att-content">
+
+        <div class="att-states-drop">
+            <h5>select the member status below</h5>
+         @Html.DropDownListFor(m => m.state, new SelectList(Model.state), new { @class = "dropmenu-freq-att", @size = 1 })
+        </div>
+        
+        <div class="att-states-drop">
+        <h5>enter the member ID below</h5>
+        @Html.EditorFor(m => m.memberId)
+       </div>
+            
+           
+        @Html.HiddenFor(m => m.state)
+        @Html.HiddenFor(m => m.regionId)
+        @Html.HiddenFor(m => m.sessionId)
+        @Html.HiddenFor(m => m.classGroupId)
+        @Html.HiddenFor(m => m.courseInstanceId)
+    </div>
+     <div id="mark-attendance">
+        <input type="submit" value="Mark Attendance now!" />
+     </div>
+}
+
+
+@if (Model.attendances != null)
+{
+    <table style="border:1px solid #0051a0;width:50%;margin-left:25%;" border="1">
+    
+    @foreach (var a in Model.attendances)
+    {
+        <tr>
+        <td>&nbsp &nbsp MemberID <b>&nbsp @a.MemberId</b></td> <td>Attendance Status <b>&nbsp @a.Code</b></td>
+        </tr>
+    }
+   </table>
+}
+
+</div>

@@ -1,0 +1,26 @@
+﻿@{
+    ViewBag.Title = "course instance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+   <div class="backicon">
+        <a href="@Url.Action("Index", "RegionalCoordinator", new { })" class="backbutton"><img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+    </div>
+
+<h1>welcome to @ViewBag.Title area!</h1>
+
+<div class="tilecontainer">
+    <ul class="usermenu">
+        <li id="createcourseinst">@Html.ActionLink("Create New Course Instance","CreateCourseInstance","CourseInstance")</li>
+        <li id="updatecourseinst">@Html.ActionLink("Update Course Instance","UpdateCourseInstance","CourseInstance")</li>
+        <li id="deletecourseinst">@Html.ActionLink("Disable Course Instance","DisableCourseInstance","CourseInstance")</li>
+        
+    </ul>
+</div>
+
+
+
+
+
+
+

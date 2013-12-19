@@ -1,0 +1,90 @@
+﻿@model WebUI.Areas.CourseLeader.Models.CreateSession
+@{
+    ViewBag.Title = "CreateNewSession";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="partialviewbackground">
+    @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+<h1>create sessions for this group!</h1>
+<br />
+
+
+
+@if (false)
+{ 
+    <script src="~/scripts/jquery-1.7.1.intellisense.js"></script>
+}
+@Html.HiddenFor(m => m.areaId)
+
+
+<div id="sessions-create">
+<h5>Select a date:</h5>
+<input type="text" id="date" />
+</div>
+
+<div id="sessions-time">
+<h5>Insert your preferred time</h5>
+@*<input type="text" id="hour"  />:<input type="text" id="minute" />*@
+
+<div id="hours-edit">@Html.EditorFor(m => m.hour) @Html.EditorFor(m => m.minute)</div>
+</div>
+
+<br />
+
+<div id="sessions-amount">
+<h5>Amount of sessions to create:</h5>
+<input type="text" id="sessionsNum" />
+
+@*<select id="freq">
+    <option>select a frequency</option>
+    <option value="Weekly">Weekly</option>
+    <option value="Fortnightly">Fortnightly</option>
+    <option value="Monthly">Monthly</option>
+    <option value="Daily">Daily</option>
+</select>*@
+    <h5>Select frequency:</h5>
+@Html.DropDownListFor(f => f.freq, new SelectList(Model.frequancy), new { @class = "dropmenu-freq", @size = 1 })
+</div>
+
+<div id="sessions-create-button">
+<input type="button" id="create" value="Create Class Group" />
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/bundles/jqueryval")
+    <script src="~/Scripts/dateScript.js"></script>
+    <script type="text/javascript">
+        var theDate = null;
+
+        $("#create").click(function () {
+            theDate = $("#date").val() + " " + $("#hour").val() + ":" + $("#minute").val();
+
+            $.ajax({
+                url: '@Url.Action("CreateNewSession", "ManageSessions")',
+        data: {
+            regionId: '@Model.regionId', courseInstanceId: '@Model.courseInstanceId',
+            classGroupId: '@Model.classGroupId', startDate: theDate, numberOfSessions: $("#sessionsNum").val(), freq: $("#freq").val(), areaId: $("#areaId").val()
+        },
+        type: 'POST',
+        success: function (data) {
+            window.location.href("toIndex");
+        }
+    });
+
+        });
+
+        $("#hour").keypress(function () {
+            return $("#hour").val().length < 2;
+        });
+        $("#minute").keypress(function () {
+            return $("#minute").val().length < 2;
+        });
+
+        $("#date").datepicker({ dateFormat: "dd-mm-yy" });
+    </script>
+}
+

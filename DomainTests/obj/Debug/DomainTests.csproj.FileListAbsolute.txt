@@ -1,0 +1,50 @@
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.6 withTESTING\DomainTests\obj\Debug\DomainTests.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.7 withTESTING\DomainTests\obj\Debug\DomainTests.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\Domain.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\EntityFramework.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\Domain.pdb
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\bin\Debug\EntityFramework.xml
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\p405\Desktop\U3A v.0.9.9.1 withTESTING\DomainTests\obj\Debug\DomainTests.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING\DomainTests\obj\Debug\DomainTests.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\DomainTests.dll.config
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\DomainTests.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\DomainTests.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\Domain.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\EntityFramework.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\Domain.pdb
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\bin\Debug\EntityFramework.xml
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\obj\Debug\DomainTests.csprojResolveAssemblyReference.cache
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\obj\Debug\DomainTests.dll
+C:\Users\p403\Desktop\U3A v.0.9.9.5 withTESTING - Copy\DomainTests\obj\Debug\DomainTests.pdb

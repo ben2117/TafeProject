@@ -1,0 +1,73 @@
+﻿@*@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@Html.ValidationMessage("Exception")
+<ul>
+    <li>@Html.ActionLink("Create Location","Region","Location")</li>
+    <li>@Html.ActionLink("Update Region","UpdateRegion","Location")</li>
+    <li>@Html.ActionLink("Update Suburb","UpdateSuburb","Location")</li>
+    <li>@Html.ActionLink("Create Region","Region","Location")</li>
+    <li>@Html.ActionLink("Create Suburb","Suburb","Location")</li>
+    <li>@Html.ActionLink("Create Venue","Venue","Location")</li>
+
+    <li>@Html.ActionLink("Back to main menu","Index","RegionalCoordinator")</li>
+</ul>*@
+
+@{
+    ViewBag.Title = "manage location";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    Styles.Render("~/Content/Site.css");
+}
+
+
+    <div class="backicon">
+        <a href="@Url.Action("Index", "RegionalCoordinator", new { })" class="backbutton"><img src="~/Content/images/backhome.png" alt="Back Button" /></a>
+    </div>
+
+<h1>welcome to @ViewBag.Title area!</h1>
+<h1 class="h1sub">what would you like to do today?</h1>
+
+<div class="locationbox" id="wizardbox">
+    <ul class="userwizard">
+        <li>@Html.ActionLink("create location wizard","Region","Location")</li>
+    </ul>
+</div>
+    <div class="locationbox">
+        <p class="boxtitle">REGION</p>
+        <ul class="usermenuhoriz">
+            <li id="regiondelete">@Html.ActionLink("disable","DeleteRegion","Location")</li>
+            <li id="regionupdate">@Html.ActionLink("modify","UpdateRegion","Location")</li>
+            <li class="regioncreate">@Html.ActionLink("create","CreateRegion","Location")</li>
+
+        </ul>
+    </div>
+
+    <div class="locationbox">
+        <p>SUBURB</p>
+        <ul class="usermenuhoriz">
+            <li id="suburbdelete">@Html.ActionLink("disable","DeleteSuburb","Location")</li>
+            <li id="suburbupdate">@Html.ActionLink("modify","UpdateSuburb","Location")</li>
+            <li id="suburbcreate">@Html.ActionLink("create","CreateSuburb","Location")</li>
+            
+        </ul>
+    </div>
+
+    <div class="locationbox">
+        <p>VENUE</p>
+        <ul class="usermenuhoriz">
+            <li id="venuedelete">@Html.ActionLink("disable","DeleteVenue","Location")</li>
+            <li id="venueupdate">@Html.ActionLink("modify","UpdateVenue","Location")</li>
+            <li id="venuecreate">@Html.ActionLink("create","CreateVenue","Location")</li>
+            
+        </ul>
+    </div>
+
+
+
+
+
+@*    
+       <li>@Html.ActionLink("venue: create","Venue","Location")</li>
+        *@
+

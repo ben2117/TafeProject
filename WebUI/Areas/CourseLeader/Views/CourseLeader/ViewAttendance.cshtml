@@ -1,0 +1,35 @@
+﻿@model WebUI.Areas.CourseLeader.Models.ViewAttendance
+@{
+    ViewBag.Title = "CourseOptions";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+<div class="wizardcontents">
+    <h2 style="text-align:center;">View attendance!</h2>
+    
+<table border="1" style="background-color:white; margin-left:auto;margin-right:auto;">
+    <tr style="color:#0051a0; font-variant:small-caps;"><th style="padding-left:10px;" >member id</th><th>state</th></tr>
+    <tr><td></td></tr>
+@foreach (var s in Model.Sessions)
+{
+    <tr>
+
+    <td style="padding-left:10px;" ><b>@s.Date</b></td>
+    
+    @foreach (var a in s.Attendances)
+    {
+        
+        <td style="padding-left:10px;color:#0051a0;" ><b style="color:#0051a0;">@a.MemberId </b><br /> <i> @a.Code</i></td>
+    }
+ 
+    </tr>
+}
+</table>
+    <br />
+    <div  style="width:30%;border:none;margin:auto;" ><button>Back</button> <button >Export attendance table</button> </div>
+    
+    </div>

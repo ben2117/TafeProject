@@ -1,0 +1,93 @@
+﻿@model WebUI.Areas.RegionalCoordinator.Models.WizardModel
+
+@if (false)
+{
+<script src="~/Scripts/jquery-1.7.1.intellisense.js"></script>
+}
+
+@{
+    ViewBag.Title = "view location";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>welcome to @ViewBag.Title area!</h1>
+
+
+<div class="partialviewbackground">
+ @Html.Partial("_LayoutBackgroundPartial")
+</div>
+
+
+
+<div class="wizardcontents">
+    <div id="regioncont">
+    <h6>pick a region now!</h6>
+     @Html.DropDownListFor(m => m.RegionId, new SelectList(Model.Regions.ToList(), "Id", "RegionName"), string.Empty,
+        new { @class = "viewregion", @size=8 })
+    </div>
+    
+    <div id="suburbcont">
+    <h6>pick a suburb now!</h6>
+    @Html.DropDownListFor(m => m.SuburbId, Enumerable.Empty<SelectListItem>(),new { @class = "viewsuburb", @size=10})
+    </div>
+    
+    <div id="venuecont">
+    <h6>pick a venue now!</h6>
+    @Html.DropDownListFor(m => m.VenueId, Enumerable.Empty<SelectListItem>(), new { @class = "viewvenue", @size=10})
+    </div>
+
+<button id="ShowData">Display the details of the venue now!</button>
+   
+    <div><h2 id="DisplayData"></h2></div>
+   
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+ <script type="text/javascript">
+     var venueDetail = null;
+
+     $("#RegionId").change(function () {
+         $.ajax({
+             url: '@Url.Action("SelectRegion", "Location")',
+             data: { ID: $(this).val() },
+             type: 'POST',
+             success: function (data) {
+                 $("#SuburbId").html(data);
+
+             }
+
+         });
+     });
+
+     $("#SuburbId").change(function () {
+         $.ajax({
+             url: '@Url.Action("SelectSuburb", "Location")',
+             data: { Sid: $(this).val(), Rid: $("#RegionId").val() },
+             type: 'POST',
+             success: function (data) {
+                 $("#VenueId").html(data);
+             }
+         });
+     });
+
+     $("#VenueId").change(function () {
+         $.ajax({
+             url: '@Url.Action("SelectVenue", "Location")',
+             data: { Sid: $("#SuburbId").val(), Rid: $("#RegionId").val(), Vid: $("#VenueId").val() },
+             type: 'POST',
+             success: function (data) {
+                 venueDetail = data;
+             }
+         });
+     });
+
+
+
+
+     $("#ShowData").click(function () {
+         $("#DisplayData").html(venueDetail);
+
+     });
+
+</script>
+}
